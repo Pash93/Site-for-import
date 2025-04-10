@@ -1,0 +1,9 @@
+tmp/
+_old/
+css/
+img/
+js/
+index.html
+index.html_old
+.DS_Store
+_backup/
